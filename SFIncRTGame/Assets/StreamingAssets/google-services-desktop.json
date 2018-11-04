@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774878304342",
+    "firebase_url": "https://sfincrtgame.firebaseio.com",
+    "project_id": "sfincrtgame",
+    "storage_bucket": "sfincrtgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774878304342:android:33a699e7dd26dc3f",
+        "android_client_info": {
+          "package_name": "com.DeXoteric.SFIncRTGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774878304342-b81qifabvlnkksb2l5jgt3b279bj1b20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70RsCl7K9qxXzRhNk8bGZVnLJeW3O0HE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
