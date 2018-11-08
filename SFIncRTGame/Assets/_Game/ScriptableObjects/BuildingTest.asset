@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f1e594e5eb5ea4ea638c21d7e676f8, type: 3}
+  m_Name: BuildingTest
+  m_EditorClassIdentifier: 
+  buildingName: Mine 111
+  buildingImage: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  baseTimeToBuild: 0
+  baseCostRes1: 0
+  baseCostRes2: 0
+  baseCostRes3: 0
+  baseProduction: 0
