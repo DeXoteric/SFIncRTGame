@@ -694,6 +694,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62c4e6ecb41eeea47ad7f4d29981ebe6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  planetImage: {fileID: 114900504366125056}
+  planetNameText: {fileID: 114792350335953054}
+  planetTypeText: {fileID: 0}
+  planetSizeText: {fileID: 114453547527224098}
+  planetQualityText: {fileID: 114469777642179914}
 --- !u!114 &114202169383769746
 MonoBehaviour:
   m_ObjectHideFlags: 1

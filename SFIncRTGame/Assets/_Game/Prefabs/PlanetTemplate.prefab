@@ -38,6 +38,7 @@ GameObject:
   - component: {fileID: 224246304827114860}
   - component: {fileID: 222009447079138066}
   - component: {fileID: 114172653810200476}
+  - component: {fileID: 114140403753947236}
   m_Layer: 5
   m_Name: PlanetTemplate
   m_TagString: Untagged
@@ -129,6 +130,22 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Name
+--- !u!114 &114140403753947236
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1239550225704670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b763734333fbd48bc703b4f8af5ef3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  planetImage: {fileID: 114546307101275682}
+  planetNameText: {fileID: 114068646569041200}
+  planetTypeText: {fileID: 0}
+  planetSizeText: {fileID: 114965687555916310}
+  planetQualityText: {fileID: 114908295792751372}
 --- !u!114 &114172653810200476
 MonoBehaviour:
   m_ObjectHideFlags: 1
